@@ -1,4 +1,4 @@
-# **Análise e Classificação de Dados Financeiros**
+#**Análise e Classificação de Dados Financeiros**
 
 Este projeto visa analisar e classificar dados financeiros utilizando técnicas de pré-processamento de dados, visualização gráfica e modelagem preditiva com Regressão Logística. O objetivo principal é prever a classificação de clientes com base em suas características e comportamento financeiro.
 
